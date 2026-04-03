@@ -26,7 +26,7 @@ This project analyzes retail sales data to identify key drivers of revenue leaka
 ![Overview](dashboard1.png)
 
 ### Discount Impact
-![Discount Impact](.png)
+![Discount Impact](dashboard2.png)
 
 ### Category Analysis
 ![Category Analysis](dashboard3.png)
